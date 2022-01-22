@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadaloufi&label=Profile%20views&color=0e75b6&style=flat" alt="shahadaloufi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadaloufi" alt="shahadaloufi" /></a> </p>
-
 - 💬 Ask me about **SwiftUI, UIKit**
 
 - 📫 How to reach me **shahdse001@gmail.com**
