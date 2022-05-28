@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Core Animation**
 
-- 💬 Ask me about **SwiftUI, UIKit, WatchKit, Core Data**
+- 💬 Ask me about **SwiftUI, UIKit,WatchKit,Core Data,CocoaPods**
 
 - 📫 How to reach me **shahdse001@gmail.com**
 
