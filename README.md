@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadaloufi" alt="shahadaloufi" /></a> </p>
 
+- 🔭 I’m currently working on [BeFine](https://github.com/ShahadAloufi/BeFineProject3)
+
 - 🌱 I’m currently learning **Core Animation**
 
 - 💬 Ask me about **UIKit, SwiftUI, WatchKit, Core Data, CocoaPods**
@@ -16,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahadaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadaloufi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.codewars.com/users/shahadaloufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codewars.com/users/shahadaloufi" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VT6Ry3sWTN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VT6Ry3sWTN" height="30" width="40" /></a>
 </p>
 
