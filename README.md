@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadaloufi" alt="shahadaloufi" /></a> </p>
 
-- 🔭 I’m currently working on [Deerha](https://github.com/ShahadAloufi/DeerhaGradudationProject)
+- 🔭 I’m currently working on [Deerha](https://github.com/ShahadAloufi/DeerhaGraduationProject)
 
 - 💬 Ask me about **UIKit, SwiftUI, WatchKit, Core Data, CocoaPods, Core Animation, Combine**
 
