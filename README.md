@@ -6,11 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadaloufi" alt="shahadaloufi" /></a> </p>
 
 
-- 💬 Ask me about **UIKit, SwiftUI, WatchKit, Core Data, CocoaPods, Core Animation, Combine**
+- 💬 Ask me about **UIKit, SwiftUI, WatchKit
 
 - 📫 How to reach me **shahdse001@gmail.com**
-
-- ⚡ Fun fact **I code better with loud music on**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
