@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahad</h1>
 <h3 align="center">A passionate and talented Self-Taught Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadaloufi&label=Profile%20views&color=0e75b6&style=flat" alt="shahadaloufi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadaloufi" alt="shahadaloufi" /></a> </p>
-
 - 📫 How to reach me **shahdse001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
