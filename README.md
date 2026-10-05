@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahad</h1>
+<h1 align="center">Hi, I'm Shahad</h1>
 <h3 align="center">A passionate and talented Self-Taught Software Engineer</h3>
 
 - 📫 How to reach me **shahdse001@gmail.com**
